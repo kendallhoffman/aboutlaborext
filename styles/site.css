@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   width: 100%;
   height: 100%;
-  background-color: #f8f9fb;
+  background-color: #f5f2f2;
 }
 
 h3 {
@@ -126,6 +126,7 @@ width: 100%;
 
 img {
   width: 33%;
+  margin: auto;
 }
 
 .foot {
