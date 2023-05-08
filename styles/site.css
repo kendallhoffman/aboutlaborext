@@ -12,10 +12,7 @@ h3 {
   margin-left: 30px;
   line-height: 1.6;
 }
-h3:hover {
-  cursor: pointer;
-  text-decoration: underline;
-}
+
 
 .links {
   float: right;
@@ -71,7 +68,7 @@ h3:hover {
     display: none;
     position: absolute;
     background-color: #ed2939;
-    width: 12%;
+    width: 20%;
     z-index: 1;
     align-items: center;
     justify-content: center;
@@ -105,11 +102,11 @@ h2, p {
 
 .learnMore {
   text-decoration: none;
-  color:#0000ff26;
+  color:#232efd;
 }
 
 .content-section {
-  border: 1px solid #0000ff26;
+  border: 1px solid #232efd;
   border-radius: 10px;
   z-index: 1;
   margin: auto;
